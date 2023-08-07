@@ -24,9 +24,9 @@ Advantages of Panel Interviews:
 5) Decisions are made faster because the assessment of a candidate is a collaborated efforet between the interviewers
 
 Disadvantages of Panel Interviews:
-1)
-2)
-3)
+1) If the interviewers have the same biases, this could be dentrimental to the candidate. 
+2) It can also slow a decision if the interviewers takes a lot of time defending their cases and hinders their ability to produce a decision on time. 
+3) 
 4)
 5)
 
