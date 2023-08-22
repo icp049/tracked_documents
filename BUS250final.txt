@@ -66,7 +66,8 @@ classes. These may also raise the risk of volunteers just leaving for no reason 
 
 4) Authority is centralized and may be overwhelmed - Although it is still a small organization, Camilia handles a lot of things by
 herself. She handles the strategic direction, operations and recruitment. AS the leading authority in the organization. Multiple things 
-could also be a burden for her and might induce fatigue. 
+could also be a burden for her and might induce fatigue. Assuming that she has opther priorities outside of the organization, this may affect
+her performance managing the organization.
 
 
 
